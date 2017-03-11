@@ -10,3 +10,5 @@ Create a 3 x 5 matrix of integers from 0 to 9, find the sums of the rows, the co
 Simulate tossing a fair coin 20 times, count the number of "heads".
 As in the last exercise, simulate tossing a fair coin 20 times, do the same simulation 1,000 times. Count the number of "heads" for each simulation (save them in an array counts). Report and give an interpretation of the descriptive statistics of counts. Print the distribution of counts
 Calculate the values of the function  f(x)=x2+3x−6f(x)=x2+3x−6  for 100 numbers in from -2 to 2
+Write a function that takes a character (i.e. a string of length 1) and returns True if it is a vowel, False otherwise.
+Create a function that counts the number of vowels in a word, test your function with some words.

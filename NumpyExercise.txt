@@ -1,0 +1,10 @@
+Print the numpy version
+Create a 3x3 matrix with values ranging from 1 to 9
+Find indices of non-zero elements from [1,2,0,0,4,0]
+Create a 10x10 array with random values and find the minimum and maximum values
+Create a random vector of size 30 and find the mean and the standard deviation
+Create a 2d array of shape (10,10) with 1 on the border and 0 inside
+Create random vector of size 10 and replace the maximum value by 0
+Create two arrays of size 10 with random integers between 1 and 20. Find common numbers between two arrays
+Create a 3 x 5 matrix of integers from 0 to 9, find the sums of the rows, the columns and the whole matrix
+Simulate tossing a fair coin 20 times, count the number of "heads".

@@ -1,0 +1,14 @@
+Movie Data Analysis
+1. Create Data Frame
+2. Read Data
+3. Display the first few records of the data
+4. How do we find the column names of this data?
+5. Find unique values of color
+6. How do we find the column types?
+7. Find number of observations and variables in the dataset
+8. Find unique values of color
+9. Find number of movies for each of those unique values in color
+10. Select only movies that got released in 2008
+11. Select only those observations that has running duration greater than 150
+12. Get the observations that are color,  having critics reviews more than 500 and was released on or after 2010 or on or before 2000
+13. Find number of movies by the year it got released and its color
